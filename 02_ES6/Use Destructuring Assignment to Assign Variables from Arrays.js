@@ -1,3 +1,4 @@
+let a = 8, b = 6;
 // Only change code below this line
-const increment = (number, value = 1) => number + value;
+[a, b] = [b, a];
 // Only change code above this line
